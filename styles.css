@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  .header {
+    background-color: yellow;
+    padding: 20px 10px;
+    display: flex;
+    width: auto;
+    justify-content: flex-start;
+    
+  }
+  .pic {
+    background-color: aliceblue;
+    padding:20px 10px;
+    display: flex;
+    width: auto;
+    height:auto;
+    background-image: url(http://clipart-library.com/new_gallery/583028_cool-background-png.png);
+    background-size: contain;
+}
